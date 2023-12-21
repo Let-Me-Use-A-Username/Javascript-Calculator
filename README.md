@@ -1,4 +1,3 @@
 # Javascript-Calculator
-Usage of HTML, CSS and Javascript to create a pseudo-website calculator
-
-Runs a basic calculator 
+Pseudo-website calculator that runs on loopback.
+Uses old school HTML, CSS and JS for functionality, was created as a module for a university project
